@@ -41,4 +41,4 @@ This project aims to predict stock market prices using Machine Learning techniqu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/Zahid-Hasan-007/Stock-Market-Prediction-using-Machine-Learning/blob/main/License)https://github.com/Zahid-Hasan-007/Stock-Market-Prediction-using-Machine-Learning/blob/main/License) file for details.
