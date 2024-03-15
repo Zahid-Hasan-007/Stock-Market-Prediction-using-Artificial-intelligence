@@ -1,4 +1,4 @@
-# Stock Market Prediction using Machine Learning
+# Stock Market Prediction using Artificial Intelligence(AI)
 
 This project aims to predict stock market prices using Machine Learning techniques, with a focus on the Long Short-Term Memory (LSTM) algorithm, which is a type of recurrent neural network (RNN) that is well-suited for sequence prediction problems.
 
